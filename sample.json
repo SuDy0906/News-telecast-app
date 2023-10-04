@@ -1,0 +1,45 @@
+{
+    "status": "ok",
+    "totalResults": 3,
+    "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "NDTV News"
+            },
+            "author": "NDTV Sports Desk",
+            "title": "\"Thinking About It\": Pakistan Cricket Board Chief Zaka Ashraf On Talks With BCCI's Jay Shah For Shif.. - NDTV Sports",
+            "description": "The Asia Cup 2023 has been severely affected by rain in Sri Lanka. The tournament is being played in a hybrid model, with most of the matches played in the island nation while four games being played in Pakistan",
+            "url": "https://sports.ndtv.com/asia-cup-2023/thinking-about-it-pakistan-cricket-board-chief-zaka-ashraf-on-talks-with-bccis-jay-shah-for-shifting-asia-cup-matches-from-sri-lanka-4358598",
+            "urlToImage": "https://c.ndtvimg.com/2023-09/lq4p8088_bcci-pcb-_625x300_04_September_23.jpg",
+            "publishedAt": "2023-09-04T11:27:01Z",
+            "content": "The Asia Cup 2023 has been severely affected by rain in Sri Lanka. The tournament is being played in a hybrid model, with most of the matches played in the island nation while four games being played… [+1567 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Cricket Times"
+            },
+            "author": "Akshat Gaur",
+            "title": "Gautam Gambhir picks his India squad for ODI World Cup 2023; no place for Shreyas Iyer - Cricket Times",
+            "description": "With the ICC ODI World Cup 2023 just around the corner, anticipation and excitement are reaching fever pitch in cricket-loving India. The last time the nation secured an ICC trophy was in 2013, while the last World Cup title came in 2011 when MS Dhoni led the…",
+            "url": "https://crickettimes.com/2023/09/gautam-gambhir-picks-his-india-squad-for-odi-world-cup-2023-no-place-for-shreyas-iyer/",
+            "urlToImage": "https://crickettimes.com/wp-content/uploads/2023/09/Gautam-Gambhir-picks-India-squad-for-ODI-World-Cup-2023.webp",
+            "publishedAt": "2023-09-04T11:08:47Z",
+            "content": "With the ICC ODI World Cup 2023 just around the corner, anticipation and excitement are reaching fever pitch in cricket-loving India. The last time the nation secured an ICC trophy was in 2013, while… [+2127 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Cricket Times"
+            },
+            "author": "CricketTimes Staff",
+            "title": "Asia Cup 2023: Gautam Gambhir engage in heated exchange with Mohammad Kaif over KL Rahul vs Ishan Kishan debate - Cricket Times",
+            "description": "The stunning performance of Ishan Kishan in the highly exciting fixture between India and Pakistan in the ongoing Asia Cup 2023 on Saturday has given birth to another debate, and that is who should be the first choice wicket-keeper for the men in blue in the …",
+            "url": "https://crickettimes.com/2023/09/asia-cup-2023-gautam-gambhir-engage-in-heated-exchange-with-mohammad-kaif-over-kl-rahul-vs-ishan-kishan-debate/",
+            "urlToImage": "https://crickettimes.com/wp-content/uploads/2023/09/Gautam-Gambhir-and-Mohammad-kaif-involved-in-a-heated-debate-over-KL-Rahul-and-Ishan-Kishan.webp",
+            "publishedAt": "2023-09-04T08:56:24Z",
+            "content": "The stunning performance of Ishan Kishan in the highly exciting fixture between India and Pakistan in the ongoing Asia Cup 2023 on Saturday has given birth to another debate, and that is who should b… [+2275 chars]"
+        }
+    ]
+}
